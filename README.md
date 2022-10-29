@@ -2,6 +2,6 @@
 
 Image Hosting Service For Huanlan
 
-Website: [img.htext.top](img.htext.top)
+Website: [img.htext.top](https://img.htext.top/)
 
 This is a personal image hosting service.
